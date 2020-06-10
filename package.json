@@ -1,0 +1,17 @@
+{
+  "name": "parking-lot-system",
+  "version": "1.0.0",
+  "description": "A basic parking lot system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "node scripts/build.js"
+  },
+  "author": "rohit kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "3.1.0",
+    "shelljs": "0.8.3",
+    "chalk": "3.0.0"
+  }
+}
