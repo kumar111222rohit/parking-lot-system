@@ -1,5 +1,14 @@
 # parking-lot-system
-A basic parking lot system based on node with bunch of querying features
+A basic parking lot system based on node with bunch of querying features like:
+1. Creating a parking lot with n slots.
+2. Allocate the nearest slot from entry gate.
+3. Vacate  a make .
+4. Display cars and their slot details.
+5. Display available slot numbers.
+6. Display occupied slot numbers.
+7. Display the registration number of the cars of x color.
+8. Display the slot number for the car with registration number y.
+9. free the slot occupied by car with registration number z
 
 Steps to run:
 1. npm install
